@@ -1,0 +1,431 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 10px;
+    position: static;
+}
+
+.navbar-toggler {
+    margin-right: 10px;
+}
+
+.navbar-collapse {
+    padding-left: 43px;
+    padding-top: 10px;
+}
+
+.navbar-brand {
+    margin-left: 47px !important;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+
+}
+
+#navbar .navbar-brand {
+    color: #76B83F;
+}
+
+/* 
+#navbar {
+    margin-bottom: 500px;
+} */
+
+.nav-link {
+    font-weight: 500;
+}
+
+.j {
+    font-family: cursive;
+}
+
+/* -------------------------------------------------------------------------------------- */
+/* navigation */
+.col-md-6 {
+    text-align: center;
+
+}
+
+.col-md-6 img {
+    width: 75%;
+}
+
+.col {
+    padding-top: 100px;
+}
+
+.torrent {
+    color: #76B83F;
+    font-weight: 700;
+
+
+}
+
+.col h1 {
+    padding: 1.5rem;
+}
+
+.classic {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.ja {
+    color: #76B83F;
+    font-weight: 700;
+    font-family: cursive;
+}
+
+.col p {
+    font-size: 1.3rem;
+    width: 93%;
+    margin: 1rem;
+    font-weight: 500;
+
+}
+
+.col-md-6 .btn {
+    color: #fff;
+    background-color: #76B83F;
+    margin: 0.7rem;
+    padding: auto;
+}
+
+.container .row {
+    height: 1px;
+}
+
+.col-md-6 img {
+    margin-top: 10%;
+}
+
+.col-md-6 .btn {
+    color: #fff;
+    padding: 10px 48px;
+}
+
+.col-md-6 .btn:hover {
+    background-color: #3daf29;
+    COLOR: #FFF;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+/* first section */
+.first-section {
+    background: linear-gradient(to right, #333348, #272738, #2D2D40, #282839);
+}
+
+.first-section .first-section-img {
+    display: block;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.col-md-6 .web {
+    color: #fff;
+}
+
+.first-section .website {
+    margin-top: 70px;
+}
+
+.first-section p {
+    color: #fff;
+    width: auto;
+    font-size: 20px;
+}
+
+.container-img {
+    width: 50%;
+    height: 65%;
+}
+
+/* -------------------------------------------------------------------------------------------------------------- */
+/* third section */
+.third-section {
+    background-color: #F5F5F5;
+
+}
+
+.first-part {
+    text-align: center;
+    margin-top: -112px;
+
+}
+
+.first-part h1 {
+    font-size: 350%;
+    font-weight: 600;
+}
+
+.first-part p {
+    font-size: 140%;
+}
+
+.second-part {
+    margin-top: 117px;
+}
+
+.second-part h1 {
+    font-size: 22px;
+}
+
+.second-part p {
+    /* width: 95%; */
+    font-size: 18px;
+    word-spacing: 3px;
+    font-weight: 400;
+    line-height: 2;
+}
+
+.second-part ul {
+    padding-left: 57px;
+    padding-right: 55px;
+    padding-bottom: 40px;
+    background: url(../images/list.svg) no-repeat left top;
+    list-style: none;
+    margin-left: 5%;
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+/* fourth section */
+.fourth-section {
+    background-color: #FDFDFD;
+    height: 98vh;
+    margin-top: 60px;
+
+}
+
+.fourth-part1 h1 {
+    text-align: center;
+    font-size: 350%;
+}
+
+.fourth-part1 p {
+    text-align: center;
+    font-size: 140%;
+}
+
+/* --------------------------------------------------------------------------------------------------- */
+/* fifth section */
+.fifth-section {
+    background-color: #F5F5F5;
+    padding-bottom: 10%;
+}
+
+.fifth-part1 {
+    padding-top: 8%;
+}
+
+.fifth-part1 h1 {
+    text-align: center;
+    font-size: 350%;
+}
+
+.fifth-part1 p {
+    text-align: center;
+    font-size: 140%;
+}
+
+.fifth-part2 .part2 {
+    text-align: left;
+    margin-left: 0px;
+    padding-left: 90px;
+}
+
+.fifth-part2 .part2 h1 {
+    font-size: 2.5rem;
+    text-align: left;
+    font-weight: 400;
+    margin-top: 15%;
+    padding-bottom: 30px;
+
+}
+
+.fifth-part2 .part2 p {
+    text-align: justify;
+    width: 80%;
+    line-height: 2;
+    word-spacing: 2px;
+    font-weight: 400;
+}
+
+.fifth-part2 .part2 li {
+    line-height: 2.1;
+}
+
+.part2 .google-play {
+    display: inline-block;
+    width: 25%;
+    margin-top: 0;
+}
+
+/* -------------------------------------------------------------------------------------------------------- */
+/* sixth-part */
+.sixth-part {
+    background-color: #242432;
+}
+
+.jTorrent {
+    font-size: 2.5rem;
+    color: azure;
+    padding-left: 50px;
+    margin-left: 5%;
+    margin-top: 300px;
+
+}
+
+.sixth-part .jTorrent {
+    margin-top: 70px;
+}
+
+.sixth-part .second {
+    color: #fff;
+    list-style: none;
+    padding: 80px;
+}
+
+hr {
+    color: azure;
+}
+
+.final .part1 {
+    color: #fff;
+    text-align: left;
+    padding: 0 77px;
+}
+
+.final .part2 {
+    color: #fff;
+    text-align: right;
+    padding: 0 77px;
+}
+
+
+
+
+/* ----------------------------------------------------------------------------------------------------------- */
+/* forth section */
+#premium .row {}
+
+.card .btn-web {
+    background-color: transparent;
+    color: #76B83F;
+    border: 1px solid;
+    padding: 5px 30px;
+    margin-right: 3px;
+}
+
+.card .btn-classic {
+    padding: 5px 30px;
+    margin-left: 0px;
+}
+
+.fourth-section .final {
+    text-align: center;
+
+}
+
+.final .btn-web {
+    color: black
+}
+
+.final .btn-classic {
+    border: 1px solid #76B83F;
+}
+
+.fourth-section li {
+    list-style-type: square;
+    text-align: left;
+    /* padding-left: 110px; */
+    text-align: left;
+    padding-left: 10%;
+}
+
+
+
+.final .btn-classic:hover {
+    background-color: #76B83F;
+    color: #fff;
+}
+
+.final p {
+    font-size: 1rem;
+    padding-bottom: 0;
+}
+
+.fourth-section .row {
+    padding: 15%;
+    padding-top: 0;
+}
+
+.fourth-section .fourth-part2 {
+    padding-top: 3%;
+}
+
+/* ****************************************************************************************** */
+/* pricing */
+/* ***************************************************************************************** */
+#premium {
+    padding: 10%;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.fourth-part1 {
+    line-height: 3;
+    padding-top: 2%;
+}
+
+.fourth-part1 h1 {
+    font-weight: 600;
+
+}
+
+.fourth-part1 {
+    font-weight: 400;
+}
+
+.fourth-part2 {
+    text-align: center;
+}
+
+.fourth-part2 li {
+    text-align: left;
+    padding-left: 17%;
+    padding-bottom: 5%;
+    list-style-type: none;
+}
+
+.card-body .btn-web {
+    padding: 3 13%;
+    margin-bottom: 20px;
+}
+
+.card-body .btn-classic {
+    padding: 3 13%;
+    color: #fff;
+    background: #76B83F;
+    margin-bottom: 20px;
+
+
+}
+
+.card-body .btn-classic:hover {
+    color: #000;
+    background-color: transparent;
+}
+
+.footer p {
+    margin: 5%;
+    word-spacing: 2px;
+    margin-bottom: 8%;
+    ;
+
+}
+
+.card-header h4 {
+    font-weight: 100;
+    font-size: 19px;
+}
